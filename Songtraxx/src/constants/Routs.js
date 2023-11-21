@@ -1,0 +1,7 @@
+export const Route = {
+    MAPS: "MAPS",
+    NEAR_SAMPLES_STACK: "NEAR_SAMPLES_STACK",
+    NEAR_SAMPLES: "NEAR_SAMPLES",
+    EDIT_PROFILE: "EDIT_PROFILE",
+    SAMPLE: 'SAMPLE',
+}
